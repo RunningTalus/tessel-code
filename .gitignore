@@ -1,3 +1,7 @@
 #Ignore node.js modules for tessel
 
 node_modules/
+
+#ignore debug log
+
+ambient/npm-debug.log
