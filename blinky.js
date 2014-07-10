@@ -12,4 +12,4 @@ setInterval(function () {
     // Toggle the led states
     led1.toggle();
     led2.toggle();
-}, 100);
+}, 1000);
